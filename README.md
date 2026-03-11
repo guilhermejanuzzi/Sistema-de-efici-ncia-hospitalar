@@ -16,3 +16,5 @@ Este projeto realiza a leitura e análise de dados hospitalares a partir de um a
 
 ## Objetivo
 Projeto desenvolvido com fins educacionais para praticar análise de dados, manipulação de arquivos CSV e visualização gráfica em Python.
+## Autor
+Guilherme Januzzi
